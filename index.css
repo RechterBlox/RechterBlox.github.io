@@ -5,7 +5,7 @@ body{
 }
 
 .title{
-    font-family: cursive;
+    font-family: sans-serif;
     display: flex;
     justify-content: center;
     margin-top: 20;
@@ -71,7 +71,7 @@ body{
 }
 
 #projecttitle{
-    margin-top: 2.6%
+    margin-top: 2%
 }
 .footer {
     display: flex;
